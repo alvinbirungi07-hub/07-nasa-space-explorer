@@ -115,6 +115,7 @@ button:disabled {
   overflow: hidden;
   display: flex;
   flex-direction: column;
+  cursor: pointer;
 }
 
 /* Three columns on wider screens */
